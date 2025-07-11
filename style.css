@@ -49,8 +49,6 @@ button {
 }
 
 #clear {
-    background-color: rgba(255, 0, 0, 0.8);
-    color: white;
     font-size: 26px;
 }
 
@@ -58,5 +56,7 @@ button {
     width: 220px;
     border-radius: 20px;
     height: 60px;
-    font-size: 30px;
+    font-size: 40px;
+    background-color: rgb(241, 184, 78);
+    color: white;
 }
