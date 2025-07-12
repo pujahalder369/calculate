@@ -1,4 +1,4 @@
-function value(v) {
+function btn(v) {
   document.getElementById("display").value += v;
 }
 
