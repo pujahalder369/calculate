@@ -15,6 +15,6 @@ function calculate() {
     const result = eval(document.getElementById("display").value);
     document.getElementById("display").value = result;
   } catch (e) {
-    document.getElementById("display").value = "Error";
+    document.getElementById("display").value = "Enter number";
   }
 }
